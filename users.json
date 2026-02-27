@@ -1,1 +1,10 @@
+[
+  {
+    "username": "admin",
+    "password": "admin",
+    "role": "admin",
+    "permission": true,
+    "image": "https://cdn-icons-png.flaticon.com/512/847/847969.png"
+  }
+]
 
