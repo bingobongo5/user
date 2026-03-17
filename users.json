@@ -8,3 +8,12 @@
   }
 ]
 
+[
+  {
+    "username": "culo",
+    "password": "1234",
+    "role": "user",
+    "permission": true,
+    "image": "https://raw.githubusercontent.com/iconic/open-iconic/master/png/person-8x.png"
+  }
+]
