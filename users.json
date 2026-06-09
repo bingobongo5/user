@@ -13,5 +13,12 @@
     "permission": true,
     "image": "https://raw.githubusercontent.com/iconic/open-iconic/master/png/person-8x.png"
   }
+   {
+    "username": "devloper",
+    "password": "1234",
+    "role": "developer",
+    "permission": true,
+    "image": "https://raw.githubusercontent.com/iconic/open-iconic/master/png/person-8x.png"
+  }
 ]
 
